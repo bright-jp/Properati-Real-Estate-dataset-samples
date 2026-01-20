@@ -1,60 +1,60 @@
 # Properati Real Estate Dataset Sample
 
-<h2>A sample dataset of 11,961 records</h2>
+<h2>11,961件のレコードからなるサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/Properati-Real-Estate-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Properati Real Estate Dataset Sample** includes **11,961 records** and was extracted using the **Bright Data API**.
+この **Properati Real Estate Dataset Sample** には **11,961件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `Type` | The type of property, e.g., Casa (House), Departamento (Apartment). |
-| `Name` | A brief title or name describing the property listing. |
-| `Estrato` | Socio-economic classification of the property area. |
-| `Habitaciones` | The number of bedrooms in the property. |
-| `Banos` | The number of bathrooms in the property. |
-| `M2` | The total area of the property in square meters. |
-| `Descripcion` | A detailed description of the property, including features and amenities. |
-| `Precio` | The listed price of the property. |
-| `Currency` | The currency in which the property price is listed, e.g., USD, ARS. |
-| `Seller_name` | The name of the person or agency selling the property. |
-| `Publica_desde` | The date when the property listing was first published. |
-| `Imagen` | A list of image URLs representing the property. |
-| `Características` | Key features and facilities of the property in a JSON format. |
-| `Antiguedad` | The age of the property in years since construction. |
-| `Provincia` | The province or state where the property is located. |
-| `Region` | The specific region or district within the province of the property. |
-| `Address` | The full address of the property. |
-| `Geolocation` | The geographical coordinates (latitude and longitude) of the property. |
-| `venta_arriendo` | Indicates if the property is for sale or rent. |
-| `Phone` | Contact phone number of the seller or listing agency. |
-| `ID` | A unique identifier for the property listing. |
-| `url` | The URL link to the property listing details page. |
-| `Seller_id` | A unique identifier for the seller or listing agency. |
-| `Active` | Status of the listing, indicating if it is currently active or inactive. |
+| `Type` | 物件の種類（例：Casa（戸建て）、Departamento（アパート））。 |
+| `Name` | 物件掲載を説明する簡単なタイトルまたは名称です。 |
+| `Estrato` | 物件エリアの社会経済的区分です。 |
+| `Habitaciones` | 物件の寝室数です。 |
+| `Banos` | 物件のバスルーム数です。 |
+| `M2` | 物件の総面積（平方メートル）です。 |
+| `Descripcion` | 特徴や設備などを含む、物件の詳細説明です。 |
+| `Precio` | 物件の掲載価格です。 |
+| `Currency` | 物件価格の通貨（例：USD、ARS）です。 |
+| `Seller_name` | 物件の販売者（個人または代理店）の名前です。 |
+| `Publica_desde` | 物件掲載が最初に公開された日付です。 |
+| `Imagen` | 物件を示す画像URLのリストです。 |
+| `Características` | JSON形式の物件の主要な特徴および設備です。 |
+| `Antiguedad` | 建築からの年数で表される物件の築年数です。 |
+| `Provincia` | 物件が所在する州または県です。 |
+| `Region` | 物件の州内における特定の地域または地区です。 |
+| `Address` | 物件の完全な住所です。 |
+| `Geolocation` | 物件の地理座標（緯度・経度）です。 |
+| `venta_arriendo` | 物件が売買用か賃貸用かを示します。 |
+| `Phone` | 販売者または掲載代理店の連絡先電話番号です。 |
+| `ID` | 物件掲載の一意識別子です。 |
+| `url` | 物件掲載詳細ページへのURLリンクです。 |
+| `Seller_id` | 販売者または掲載代理店の一意識別子です。 |
+| `Active` | 掲載ステータスで、現在アクティブか非アクティブかを示します。 |
 
 
 ## Use Cases
 
 ### 1. Real Estate Market Analysis
-Utilize this dataset to analyze trends in the real estate market, assessing property values and regional demand in Argentina and Colombia.
+このデータセットを活用して不動産市場のトレンドを分析し、アルゼンチンおよびコロンビアにおける物件価値と地域需要を評価します。
 
 ### 2. Investment Opportunities
-Identify potential real estate investment opportunities by examining property features, prices, and locations for strategic decision-making.
+物件の特徴、価格、所在地を精査し、戦略的な意思決定のための潜在的な不動産投資機会を特定します。
 
 ### 3. Urban Development Research
-Conduct research on urban development patterns and housing availability to support policy-making and urban planning initiatives.
+都市開発のパターンや住宅の供給状況に関する研究を実施し、政策立案および都市計画の取り組みを支援します。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で提供されています：
+- **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -74,8 +74,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます：
+- **Once**（一回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -84,14 +84,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+特定の要件に基づいて追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full Properati Real Estate dataset](https://brightdata.com/products/datasets/real-estate)**
+**[Get the full Properati Real Estate dataset](https://brightdata.jp/products/datasets/real-estate)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeは、環境および社会的課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** および **[ready-to-use datasets](https://brightdata.jp/products/datasets)** への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+無料アクセスの申請は [brightinitiative.com](https://brightinitiative.com) から行えます。
