@@ -1,4 +1,4 @@
-# Properati Real Estate Dataset Sample
+# Properati Real Estate データセットサンプル
 
 <h2>11,961件のレコードからなるサンプルデータセット</h2>
 
